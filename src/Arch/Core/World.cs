@@ -1,3 +1,5 @@
+#define EVENTS
+
 using System.Diagnostics.Contracts;
 using System.Threading;
 using Arch.Core.Extensions;
